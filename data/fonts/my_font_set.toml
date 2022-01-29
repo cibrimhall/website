@@ -1,0 +1,12 @@
+# Font style metadata
+name = "Craig's Site"
+
+# Optional Google font URL
+google_fonts = "family=Alegreya+Sans+SC&family=Inter&family=Roboto+Mono:wght@400;700"
+
+
+# Font families
+heading_font = "Alegreya Sans SC"
+body_font = "Inter"
+nav_font = "Alegreya Sans SC"
+mono_font = "Roboto Mono"
