@@ -5,7 +5,7 @@ theme: "starter-hugo-academic"
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Craig Brimhall # Website name
-baseurl: '' # Website URL
+baseurl: 'www.craigbrimhall.com'
 copyright: '© 2022 Craig Brimhall' # Footer text, e.g. '© {ye Me'
 
 ############################
