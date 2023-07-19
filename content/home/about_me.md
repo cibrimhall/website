@@ -24,8 +24,7 @@ I'm a Postdoctoral Scholar in Behavioral Decision Making at UCLA's Anderson Scho
 </font>
 <font size = "4">
 [Google Scholar](https://scholar.google.com/citations?user=t0qL1FMAAAAJ&hl=en&oi=ao)
-<br>
-[Academic Site](https://eccles.utah.edu/team/craig-brimhall/)
+
 </font>
 
 
