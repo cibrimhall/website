@@ -16,7 +16,7 @@ design:
 
 <font size = "5">
 
-I'm a Ph.D. student at the University of Utah's David Eccles School of Business. I use lab-based behavioral experiments and field studies to examine how people learn from their experiences and achieve their goals. 
+I'm a Postdoctoral Scholar in Behavioral Decision Making at UCLA's Anderson School of Management. I use lab-based behavioral experiments and field studies to examine how people learn from their experiences and achieve their goals. 
 <br>
 <br>
 </a>
