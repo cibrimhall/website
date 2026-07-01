@@ -130,8 +130,6 @@ body {
   <div class="cb-hero__rect--yellow"></div>
   <div class="cb-hero__inner">
     <div class="cb-hero__text">
-      <p class="cb-hero__name">Craig Brimhall</p>
-      <p class="cb-hero__role">Senior Lecturer, School of Management and Governance, UNSW Business School</p>
       <p>I'm a Senior Lecturer in the School of Management and Governance at UNSW Business School. My research examines how managers and employees make decisions under uncertainty, with a focus on how they think about skill and luck, and the strategies they adopt to reach their goals. I combine lab studies, field experiments, and archival analysis to better understand why employees make the decisions they do. Before joining UNSW, I was a Postdoctoral Fellow in Behavioural Decision Making at UCLA.</p>
       <p class="cb-hero__links">
         <a href="https://scholar.google.com/citations?user=t0qL1FMAAAAJ&hl=en&oi=ao">Google Scholar</a> &nbsp;·&nbsp; <a href="mailto:c.brimhall@unsw.edu.au">c.brimhall@unsw.edu.au</a>
