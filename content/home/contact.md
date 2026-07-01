@@ -1,23 +1,7 @@
 ---
-# An instance of the Contact widget.
-# Documentation: https://sourcethemes.com/academic/docs/page-builder/
-widget: contact
+# Homepage
+type: widget_page
 
-# This file represents a page section.
+# Homepage is headless, other widget pages are not.
 headless: true
-
-# Order that this section appears on the page.
-weight: 30
-
-title: Contact
-subtitle:
-
-content:
-  # Automatically link email and phone or display as text?
-  autolink: true
-
-design:
-  columns: '2'
-  spacing:
-    padding: ["30px", "0", "50px", "0"]
 ---
