@@ -15,28 +15,40 @@ font_size: M
 site_type: Person
 local_business_type: ''
 org_name: ''
-description: ''
+description: 'Senior Lecturer, School of Management and Governance, UNSW Business School'
 twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: craig.brimhall@anderson.ucla.edu
-phone: 
+email: c.brimhall@unsw.edu.au
+phone:
 address:
-  street: 
-  city:  
-  region: 
-  postcode: 
-  country: 
-  country_code: 
+  street:
+  city:
+  region:
+  postcode:
+  country:
+  country_code:
 
 
 contact_links:
-  - icon: twitter
+  - icon: google-scholar
+    icon_pack: ai
+    name: "Google Scholar"
+    link: 'https://scholar.google.com/citations?user=t0qL1FMAAAAJ&hl=en'
+  - icon: orcid
+    icon_pack: ai
+    name: "ORCID"
+    link: 'https://orcid.org/0000-0001-6423-3792'
+  - icon: linkedin
     icon_pack: fab
-    name: "@craig_brimhall"
-    link: 'https://twitter.com/craig_brimhall'
-  
+    name: "LinkedIn"
+    link: 'https://au.linkedin.com/in/craigbrimhall'
+  - icon: bluesky
+    icon_pack: fab
+    name: "Bluesky"
+    link: 'https://bsky.app/profile/craigbrimhall.bsky.social'
+
 # Site header
 
 main_menu:
@@ -47,7 +59,7 @@ main_menu:
   show_day_night: false
   show_search: false
   highlight_active_link: true
-  
+
 
 # Localization
 
