@@ -1,11 +1,10 @@
 ---
-widget: blank
+widget: hero
 headless: true
 weight: 10
 title:
 
 design:
-  columns: '1'
   background:
     color: "#ffffff"
   spacing:
