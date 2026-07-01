@@ -83,8 +83,8 @@ body {
   top: 50%;
   right: 70px;
   transform: translateY(-50%);
-  width: 320px;
-  height: 320px;
+  width: 520px;
+  height: 520px;
   border-radius: 8px;
   overflow: hidden;
   box-shadow: 0 15px 35px rgba(0,0,0,.2);
