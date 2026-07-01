@@ -81,7 +81,7 @@ body {
   position: absolute;
   z-index: 3;
   top: 50%;
-  right: 55px;
+  right: 45px;
   transform: translateY(-50%);
   width: 460px;
   height: 460px;
