@@ -13,6 +13,9 @@ design:
 ---
 
 <style>
+body {
+  background-color: #ffffff !important;
+}
 .cb-hero {
   position: relative;
   left: 50%;
@@ -27,7 +30,7 @@ design:
   position: absolute;
   top: 0;
   right: 0;
-  width: 340px;
+  width: 50vw; /* reaches about to the middle of the page */
   height: 400px; /* 5/8 of the 640px hero height */
   background: #2c4a6e;
   z-index: 0;
@@ -36,8 +39,8 @@ design:
   position: absolute;
   bottom: 0;
   left: 0;
-  width: 420px; /* a bit less than half the hero width */
-  height: 160px; /* 1/4 of the 640px hero height */
+  width: 46vw;
+  height: 220px; /* taller than before */
   background: #e3ae43;
   z-index: 0;
 }
