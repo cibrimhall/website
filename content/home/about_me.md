@@ -81,10 +81,10 @@ body {
   position: absolute;
   z-index: 3;
   top: 50%;
-  right: 70px;
+  right: 55px;
   transform: translateY(-50%);
-  width: 520px;
-  height: 520px;
+  width: 460px;
+  height: 460px;
   border-radius: 8px;
   overflow: hidden;
   box-shadow: 0 15px 35px rgba(0,0,0,.2);
