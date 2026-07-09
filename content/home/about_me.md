@@ -72,6 +72,7 @@ body {
   font-size: 1.05rem;
   line-height: 1.7;
   color: #333;
+  text-align: justify;
 }
 .cb-hero__links {
   margin-top: 20px;
@@ -81,7 +82,7 @@ body {
   position: absolute;
   z-index: 3;
   top: 50%;
-  right: -10px;
+  right: -600px;
   transform: translateY(-50%);
   width: 460px;
   height: 460px;
