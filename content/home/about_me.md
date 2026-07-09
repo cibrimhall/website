@@ -82,7 +82,7 @@ body {
   position: absolute;
   z-index: 3;
   top: 50%;
-  right: -600px;
+  right: -300px;
   transform: translateY(-50%);
   width: 460px;
   height: 460px;
@@ -124,6 +124,16 @@ body {
     height: 110px;
   }
 }
+
+.site-footer,
+.page-footer {
+  background-color: #ffffff !important;
+}
+.site-footer .powered-by,
+.site-footer a {
+  color: #888 !important;
+}
+
 </style>
 
 <div class="cb-hero">
