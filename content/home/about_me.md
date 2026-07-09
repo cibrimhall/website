@@ -90,7 +90,7 @@ body {
 .cb-hero__photo {
   position: absolute;
   z-index: 3;
-  top: 50%;
+  top: 45%;
   right: -150px;
   transform: translateY(-50%);
   width: 460px;
