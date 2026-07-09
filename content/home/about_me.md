@@ -16,6 +16,15 @@ design:
 body {
   background-color: #ffffff !important;
 }
+}
+.site-footer,
+.page-footer {
+  background-color: #ffffff !important;
+}
+.site-footer .powered-by,
+.site-footer a {
+  color: #888 !important;
+}
 .cb-hero {
   position: relative;
   left: 50%;
@@ -40,7 +49,7 @@ body {
   bottom: 0;
   left: 0;
   width: 46vw;
-  height: 220px; /* taller than before */
+  height: 200px; /* taller than before */
   background: #e3ae43;
   z-index: 0;
 }
@@ -125,14 +134,6 @@ body {
   }
 }
 
-.site-footer,
-.page-footer {
-  background-color: #ffffff !important;
-}
-.site-footer .powered-by,
-.site-footer a {
-  color: #888 !important;
-}
 
 </style>
 
