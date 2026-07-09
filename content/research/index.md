@@ -4,13 +4,105 @@ title: Research
 
 I study how managers and employees make decisions under uncertainty, with a particular focus on how they think about **skill and luck**, and the strategies people adopt to reach their goals. My work combines lab-based and field experiments with archival analysis and qualitative interviews.
 
-**Goal Achievement**
+<style>
+.cb-project-list {
+  margin: 40px 0 20px;
+}
+.cb-project {
+  display: flex;
+  align-items: flex-start;
+  gap: 40px;
+  margin-bottom: 70px;
+}
+.cb-project__text {
+  flex: 1 1 50%;
+}
+.cb-project__title {
+  font-size: 1.4rem;
+  font-weight: 700;
+  margin: 0 0 12px;
+  color: #222;
+}
+.cb-project__link {
+  margin: 0 0 12px;
+}
+.cb-project__link a {
+  color: #2c4a6e;
+}
+.cb-project__coauthors {
+  font-style: italic;
+  color: #555;
+  margin: 0 0 14px;
+}
+.cb-project__summary {
+  line-height: 1.7;
+  color: #333;
+  margin: 0;
+}
+.cb-project__image {
+  flex: 1 1 45%;
+}
+.cb-project__image img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 4px;
+}
+@media (max-width: 800px) {
+  .cb-project {
+    flex-direction: column;
+    gap: 20px;
+  }
+}
+</style>
 
-Self-control failures underlie several important behavioral and societal problems. Procrastination, failure to maintain an exercise program, and inadequate retirement savings all reflect a trade-off between short-term gratification and long-term benefits. In a number of projects, I research commitment contracts, a self-control strategy where a person agrees to have a penalty imposed on them by a third party if they don't meet their goal. For example, a person trying to lose 10 pounds might write a check to a political organization they despise and give that check to a friend to cash if they don't lose the weight. Specifically, I look at the decision-making process of choosing a commitment contract, and whether people can learn to set more effective contracts for themselves.
+<div class="cb-project-list">
 
-**Learning from Experience**
+<!-- ============================================================ -->
+<!-- PROJECT 1 — replace the title, link, co-authors, summary,     -->
+<!-- and image below with your own. Copy this whole block          -->
+<!-- (from <div class="cb-project"> to its closing </div>) to add  -->
+<!-- more projects.                                                -->
+<!-- ============================================================ -->
+<div class="cb-project">
+  <div class="cb-project__text">
+    <h3 class="cb-project__title">[Project Title Goes Here]</h3>
+    <p class="cb-project__link"><a href="#">[Optional: link to preprint/working paper — replace href="#", or delete this whole &lt;p&gt; line if not needed]</a></p>
+    <p class="cb-project__coauthors"><em>[Co-author One], [Co-author Two], [Co-author Three]</em></p>
+    <p class="cb-project__summary">[Write a 3&ndash;5 sentence summary of this project here: the research question, your method, and the key takeaway.]</p>
+  </div>
+  <div class="cb-project__image">
+    <img src="/uploads/research-placeholder-1.jpg" alt="[Replace with a descriptive caption for this image]">
+  </div>
+</div>
 
-*Ut est rerum omnium magister usus* &mdash; experience is the best teacher. In my research on learning, I examine whether the causal attributions people make based on their experiences are accurate (e.g., a coach might say, "the reason we won the game is our players just wanted it more"). I've found that people misattribute skill for randomness in competitive outcomes, and that people can overly rely on their own past learning during a crisis, even once it becomes clear that what they "learned" no longer applies.
+<!-- PROJECT 2 -->
+<div class="cb-project">
+  <div class="cb-project__text">
+    <h3 class="cb-project__title">[Project Title Goes Here]</h3>
+    <p class="cb-project__link"><a href="#">[Optional: link to preprint/working paper]</a></p>
+    <p class="cb-project__coauthors"><em>[Co-author One], [Co-author Two]</em></p>
+    <p class="cb-project__summary">[Write a 3&ndash;5 sentence summary of this project here.]</p>
+  </div>
+  <div class="cb-project__image">
+    <img src="/uploads/research-placeholder-2.jpg" alt="[Replace with a descriptive caption for this image]">
+  </div>
+</div>
+
+<!-- PROJECT 3 -->
+<div class="cb-project">
+  <div class="cb-project__text">
+    <h3 class="cb-project__title">[Project Title Goes Here]</h3>
+    <p class="cb-project__link"><a href="#">[Optional: link to preprint/working paper]</a></p>
+    <p class="cb-project__coauthors"><em>[Co-author One], [Co-author Two], [Co-author Three]</em></p>
+    <p class="cb-project__summary">[Write a 3&ndash;5 sentence summary of this project here.]</p>
+  </div>
+  <div class="cb-project__image">
+    <img src="/uploads/research-placeholder-3.jpg" alt="[Replace with a descriptive caption for this image]">
+  </div>
+</div>
+
+</div>
 
 ### Selected Publications
 
@@ -19,11 +111,5 @@ Hershfield, H.E., Brimhall, C.I., & Kerbel, S. (2025). Exploring the distributio
 Fišar, M., Greiner, B., Huber, C., Katok, E., Ozkes, A.I., & Management Science Reproducibility Collaboration. (2024). Reproducibility in Management Science. *Management Science*, 70(3), 1343&ndash;1356.
 
 Brimhall, C.I., Tannenbaum, D., & VanEpps, E.M. (2023). Choosing more aggressive commitment contracts for others than for the self. *Judgment and Decision Making*. [doi:10.1017/jdm.2023.1](https://doi.org/10.1017/jdm.2023.1)
-
-### Selected Working Papers
-
-- Brimhall, C.I. & Fox, C. "Streaks as a signal of skill: Evidence from Major League Baseball."
-- Brimhall, C.I. & Tannenbaum, D. "Explaining the paradox of skill: Why more competence means more luck."
-- Brimhall, C.I., Pearsall, S., Linder, J., Doctor, J., Goldstein, N., Meeker, D., Knight, T., & Fox, C. "What makes peer comparison feedback acceptable or aversive."
 
 For a complete list of publications, working papers, and conference presentations, see my [CV](/cv).
