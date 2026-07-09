@@ -54,7 +54,7 @@ body {
 .cb-hero__text {
   position: relative;
   z-index: 2;
-  max-width: 600px;
+  max-width: 510px;
   padding: 70px 30px 0 40px;
 }
 .cb-hero__name {
@@ -81,7 +81,7 @@ body {
   position: absolute;
   z-index: 3;
   top: 50%;
-  right: 10px;
+  right: -10px;
   transform: translateY(-50%);
   width: 460px;
   height: 460px;
