@@ -108,7 +108,7 @@ body {
     transform: none;
     width: 220px;
     height: 220px;
-    margin: 20px auto 0;
+    margin: 40px auto 0;
   }
   .cb-hero__text {
     max-width: none;
